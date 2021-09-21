@@ -165,7 +165,7 @@ if __name__ == '__main__':
     data.visualize()
     data.partition()
 
-    lr=LinerRegression(data.train_x_n, data.train_y_n, data.test_x_n, data.test_y_n)
+    lr=LinerRegression(data.train_x_n, data.train_y_n, data.test_x_n, data.test_y_n, 1)
     y_pred=lr.pred()
     plt.scatter(data.x, data.y)
     # inverting the normalization
@@ -187,12 +187,15 @@ if __name__ == '__main__':
     data.visualize()
     data.partition()
     
-    logi=LogisticRegression(data.train_x, data.train_y, data.test_x, data.test_y, 'r')
+    logi=LogisticRegression(data.train_x_n, data.train_y_n, data.test_x_n, data.test_y_n, 'r')
     y_pred=logi.pred()  
     plt.scatter(data.x, data.y)	
-    x_i=data.train_x.tolist()
-    y_i=logi.fit(data.train_x, logi.p)
-    plt.scatter(x_i, y_i, color='r')
+    x_i=data.train_x_n*data.x_std+data.x_mean
+    y=logi.fit(data.train_x_n, logi.p)
+    y_i=np.dot(logi.fit(data.train_x_n, logi.p),data.y_std)+data.y_mean
+    def f(x):
+        
+    plt.plot(x_i, y_i, color='r')
     plt.xlabel('Age')
     plt.ylabel('Weight')
     plt.title('Logistic Regression for regression')
