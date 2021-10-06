@@ -28,14 +28,31 @@ GAMMA_L2=0.0001     #L2 REGULARIZATION CONSTANT
 alpha=0.25          #MOMENTUM PARAMETER
 #ANN PARAM
 layers=[-1,5,5,5,1]
-activation="sigmoid"
-#CALCULATE THE NUMBER OF PARAMTERS
-NFIT=0
-for i in (range(1,layers)):
-    NFIT=NFIT+layers[i-1]*layers[i]+layers[i]
+activation="SIGMOID"   #TANH OR SIGMOID
 
 #SAVE HISTORY FOR PLOTTING AT THE END
 epoch=1; epochs=[]; loss_train=[];  loss_val=[]
+
+#TAKE A LONG VECTOR W OF WEIGHTS AND BIAS AND RETURN
+#WEIGHT AND BIAS SUBMATRICES
+def extract_submatrices(WB):
+    submatrice=[]
+    K=0
+    for i in range(0, len(layers)-1):
+        #FORM RELEVANT SUB MATRIX FOR LAYER-N
+        Nrow=layers[i+1]
+        Ncol=layers[i]
+        w=np.array(WB[K:K+Nrow*Ncol].reshape(Ncol,Nrow).T)
+        K=K+Nrow*Ncol
+        Nrow=layers[i+1]
+        Ncol=1
+        b=np.transpose(np.array([WB[K:K+Nrow*Ncol]]))
+        K=K+Nrow*Ncol
+        submatrice.append(w)
+        submatrice.append(b)
+    return submatrice
+
+
 
 #------------------------
 #GET DATA 
@@ -86,10 +103,22 @@ for i in range(0,len(x)):
 
 #MAKE ROWS=SAMPLE DIMENSION (TRANSPOSE)
 X=np.array(xtmp); Y=np.array(ytmp)
-NFIT=X.shape[1]+1  		#plus one for the bias term
+# NFIT=X.shape[1]+1  		#plus one for the bias term
 
+if(model_type=="ANN"):
+	layers[0]		=	 X.shape[1]  	#OVERWRITE WITH INPUT SIZE
+
+	#CALCULATE NUMBER OF FITTING PARAMETERS FOR SPECIFIED NN 
+	NFIT=0; 
+	for i in range(1,len(layers)):  
+		NFIT=NFIT+layers[i-1]*layers[i]+layers[i]
+	print("NFIT		:	",NFIT)
+    
 #SIGMOID
 def S(x): return 1.0/(1.0+np.exp(-x))
+
+#TANH
+def T(x): return (np.exp(x)-np.exp(-x))/(np.exp(x)+np.exp(-x))
 
 print('--------INPUT INFO-----------')
 print("X shape:",X.shape); print("Y shape:",Y.shape,'\n')
@@ -126,35 +155,38 @@ print("train_idx shape:",train_idx.shape)
 print("val_idx shape:"  ,val_idx.shape)
 print("test_idx shape:" ,test_idx.shape)
 
-#TAKE A LONG VECTOR W OF WEIGHTS AND BIAS AND RETURN
-#WEIGHT AND BIAS SUBMATRICES
-def extract_submatrices(WB):
-    submatrice=[]
-    K=0
-    for i in range(0, len(layers)-1):
-        #FORM RELEVANT SUB MATRIX FOR LAYER-N
-        Nrow=layers[i+1]
-        Ncol=layers[i]
-        w=np.array(WB[K:K+Nrow*Ncol].reshape(Ncol,Nrow).T)
-        K=K+Nrow*Ncol
-        Nrow=layers[i+1]
-        Ncol=1
-        b=np.transpose(np.array([WB[K:K+Nrow*Ncol]]))
-        K=K+Nrow*Ncol
-        submatrice.append(w)
-        submatrice.append(b)
-    return submatrice
 
 
-    
 #------------------------
 #MODEL
 #------------------------
+def NN_eval(x, matrice):
+    res=[]
+    for i in range(len(x)):
+        tmp=np.transpose([x[i]])
+        for j in range(0, len(layers)-1):
+            tmp=np.dot(matrice[2*j], tmp)+matrice[2*j+1]
+            if j==len(layers)-2:
+                res.append(tmp[0])
+                continue
+            if activation=='SIGMOID':
+                for k in range(len(tmp)):
+                    tmp[k][0]=S(tmp[k][0])
+            if activation=='TANH':
+                for k in range(len(tmp)):
+                    tmp[k][0]=T(tmp[k][0])
+    return np.array(res).reshape(len(res),1)
+        
+             
 def model(x,p):
 	if(model_type=="linear" or model_type=="logistic" ):   
 		out=p[0]+np.matmul(x,p[1:].reshape(NFIT-1,1))
 		if(model_type=="logistic"): out=S(out)
 		return  out  
+
+	if(model_type=="ANN"):
+		submatrices=extract_submatrices(p)
+		return  NN_eval(x,submatrices)  
 
 
 #FUNCTION TO MAKE VARIOUS PREDICTIONS FOR GIVEN PARAMETERIZATION
@@ -171,8 +203,12 @@ def predict(p):
 #------------------------
 def loss(p,index_2_use):
 	errors=model(X[index_2_use],p)-Y[index_2_use]  #VECTOR OF ERRORS
-	training_loss=np.mean(errors**2.0)				#MSE
-	return training_loss
+	out=np.mean(errors**2.0)				#MSE
+	if(GAMMA_L1!=0.0):
+		out=out+GAMMA_L1*np.sum(np.absolute(p))
+	if(GAMMA_L2!=0.0):
+		out=out+GAMMA_L2*np.sum(p**2.0)
+	return out
 
 #------------------------
 #MINIMIZER FUNCTION
@@ -281,7 +317,7 @@ def minimizer(f,xi):
 po=np.random.uniform(0.25,1.,size=NFIT)
 
 #TRAIN MODEL USING SCIPY MINIMIZ 
-p_final=minimizer(loss,po)		
+p_final=minimizer(loss,po)
 print("OPTIMAL PARAM:",p_final)
 predict(p_final)
 
