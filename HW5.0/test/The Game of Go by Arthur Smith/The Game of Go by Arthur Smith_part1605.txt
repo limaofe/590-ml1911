@@ -1,0 +1,3 @@
+39.     D 3.                         40.     D 6.
+41.     C 3.                         42.     H 15.
+43.     Q 7.                         44.     N 13. This prevents Black

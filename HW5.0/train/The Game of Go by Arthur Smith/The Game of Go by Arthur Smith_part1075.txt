@@ -1,0 +1,3 @@
+253.    S 12. “Ko.”                  254.    C 19.
+255.    S 11. Connecting.            256.    D 19.
+White wins by seven stones.

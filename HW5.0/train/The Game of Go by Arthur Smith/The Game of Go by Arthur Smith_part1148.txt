@@ -1,0 +1,3 @@
+This opening might be continued as follows:
+        WHITE                                BLACK
+17.     D 18.                        18.     E 18.

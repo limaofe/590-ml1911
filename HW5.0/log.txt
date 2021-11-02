@@ -1,0 +1,5 @@
+I used simple RNN model. 
+I stacked several recurrent layers one after the other in order to increase the representational power of a network. 
+I also used l2 regularization in the dense layer to deal with overfitting.
+The model works pretty well on training data with the auc higher than 0.8. 
+However, when it works on validation dataset, the auc is only about 0.5. There still exists overfitting, maybe I should magnify the l2 regularization.  

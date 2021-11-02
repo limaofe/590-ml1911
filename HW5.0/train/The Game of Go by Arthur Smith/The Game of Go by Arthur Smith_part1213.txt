@@ -1,0 +1,3 @@
+        This is another method of            move; if Black plays
+        attacking from the other             “Tenuki,” White can at
+        side.                                once enter the corner.

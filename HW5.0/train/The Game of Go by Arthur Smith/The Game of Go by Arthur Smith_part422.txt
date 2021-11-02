@@ -1,0 +1,3 @@
+board.
+(b) Stones which, while not actually surrounded can inevitably be
+surrounded, are dead, and can be taken from the board at the end of the

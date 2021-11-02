@@ -1,0 +1,3 @@
+33.     S 2. If Black plays at R     34.     P 9.
+        9, this move is necessary
+        for the security of the

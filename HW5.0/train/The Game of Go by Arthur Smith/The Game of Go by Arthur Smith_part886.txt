@@ -1,0 +1,3 @@
+109.    G 2.                         110.    M 7.
+111.    E 2.                         112.    C 3. If Black plays at D
+                                             3, White could reply at D

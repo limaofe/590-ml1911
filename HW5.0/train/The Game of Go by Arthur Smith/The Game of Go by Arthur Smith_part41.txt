@@ -1,0 +1,3 @@
+by the greater number of combinations and by the greater number of
+places on the board where conflicts take place. As a rule it may be
+said that two average players of about equal strength will find more

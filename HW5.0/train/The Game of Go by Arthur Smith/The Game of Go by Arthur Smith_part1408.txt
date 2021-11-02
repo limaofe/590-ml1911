@@ -1,0 +1,3 @@
+7.      H 16.                        8.      H 18. This is a correct
+                                             move. H 17 would be
+                                             inferior.

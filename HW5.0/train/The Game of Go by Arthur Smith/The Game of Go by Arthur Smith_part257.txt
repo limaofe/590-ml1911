@@ -1,0 +1,3 @@
+played they are never moved again.
+The object of the game of Go is to secure territory. Just as the object
+of the game of Chess is not to capture pieces, but to checkmate the

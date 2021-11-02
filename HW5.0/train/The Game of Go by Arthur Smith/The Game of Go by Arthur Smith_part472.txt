@@ -1,0 +1,3 @@
+is supposed to be White’s move, and he must, of course, play at K 8,
+whereupon Black would play at K 7 (“Osaeru”), and White would have to
+play at L 8 (“Nobiru”), and so on until, if these moves were persisted

@@ -1,0 +1,3 @@
+examples Black is supposed to make the best possible moves, and
+therefore White always finds himself at a disadvantage.
+I

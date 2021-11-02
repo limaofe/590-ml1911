@@ -1,0 +1,3 @@
+if it is Black’s move in this case, the group can be saved by playing
+at N 11; obviously, also, if White, being a mere novice, plays
+elsewhere than at N 11, Black saves the stones by playing there and

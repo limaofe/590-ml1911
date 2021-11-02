@@ -1,0 +1,3 @@
+63.     O 10.                        64.     N 11.
+65.     N 10.                        66.     M 11.
+67.     K 12. An ineffective move;   68.     B 17.

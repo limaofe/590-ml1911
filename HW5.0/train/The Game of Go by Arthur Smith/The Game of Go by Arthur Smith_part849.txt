@@ -1,0 +1,3 @@
+White wins by four stones. After the dead stones are used to fill up
+the vacant spaces, and the board is rearranged, it will be found that
+White has fourteen “Me” and Black ten “Me.”

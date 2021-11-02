@@ -1,0 +1,3 @@
+        BLACK                                WHITE
+1.      D 15.                        2.      D 17.
+3.      G 16. Old “Joseki,”          4.      C 15.

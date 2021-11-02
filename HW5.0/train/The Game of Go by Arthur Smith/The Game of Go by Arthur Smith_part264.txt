@@ -1,0 +1,3 @@
+A stone is taken when it is surrounded on four opposite sides as shown
+in Plate 2, Diagram I. When it is taken it is removed from the board.
+It is not necessary that a stone should also be surrounded diagonally,

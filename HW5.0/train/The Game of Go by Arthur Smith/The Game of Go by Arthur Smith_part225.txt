@@ -1,0 +1,3 @@
+are white and the remaining one hundred and eighty-one are black. As
+the weaker player has the black stones and the first move, obviously
+the extra stone must be black. In practice the entire number of stones

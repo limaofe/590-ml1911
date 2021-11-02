@@ -1,0 +1,3 @@
+35.     H 2. Protecting the          36.     J 3. Black must connect,
+        connection at G 2.                   otherwise the stone at H 3
+                                             is lost.

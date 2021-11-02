@@ -1,0 +1,3 @@
+12. T 12, T 11, S 10.
+V. CONNECTING GROUPS
+1.  O 15, N 16, M 15, O 14, O 17 or O 15, P 15, P 18, Q 18, P 16, O 17,

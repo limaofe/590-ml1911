@@ -1,0 +1,3 @@
+                                             the board might be lost.
+129.    R 2.                         130.    H 7.
+131.    T 15.                        132.    S 17. Better than T 16, as

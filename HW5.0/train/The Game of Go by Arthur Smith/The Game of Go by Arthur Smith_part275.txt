@@ -1,0 +1,3 @@
+In order to capture a group or chain of stones containing vacant space,
+it must be completely surrounded inside and out; for instance, the
+black group shown on Plate 2, Diagram IX, while it has no hope of life

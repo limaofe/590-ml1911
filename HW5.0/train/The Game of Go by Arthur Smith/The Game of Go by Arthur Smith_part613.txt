@@ -1,0 +1,3 @@
+        connection.
+Second: The following moves which are strictly “Dame.” It makes no
+difference which side fills these intersections, but it would generally

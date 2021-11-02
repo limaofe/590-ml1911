@@ -1,0 +1,3 @@
+parallel with the edges of the board are connected, and support each
+other, Plate 2, Diagram VII, while stones which are on the same
+diagonal line are not connected, and do not support each other, Plate

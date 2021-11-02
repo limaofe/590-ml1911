@@ -1,0 +1,3 @@
+which would make eight stones necessary in order to take one; neither
+do four stones placed on the adjacent diagonal intersections cause a
+stone to be taken: they do not directly attack the stone in the center

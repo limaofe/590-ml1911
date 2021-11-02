@@ -1,0 +1,3 @@
+21.     S 3.                         22.     Q 4. This move and 24-R 2
+                                             are necessary because of
+                                             the white stones on line

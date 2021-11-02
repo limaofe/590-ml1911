@@ -1,0 +1,3 @@
+49.     D 6.                         50.     D 5.
+51.     F 6.                         52.     H 9. Black must provide an
+                                             exit for his stones on

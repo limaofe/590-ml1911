@@ -1,0 +1,3 @@
+65.     G 17.                        66.     K 16.
+67.     P 16. This is necessary to   68.     K 15.
+        avoid the following

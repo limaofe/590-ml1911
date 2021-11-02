@@ -1,0 +1,3 @@
+C 17, D 16, E 16, G 17.
+If White has the move, it makes a difference of seven “Me.”
+        WHITE                                BLACK

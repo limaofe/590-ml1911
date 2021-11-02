@@ -1,0 +1,3 @@
+examples of this class. The end positions which occur in the middle of
+the board may vary so much in every game that it is practically
+impossible to give typical illustrations of them.

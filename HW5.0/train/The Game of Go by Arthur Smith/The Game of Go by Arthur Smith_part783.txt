@@ -1,0 +1,3 @@
+        stones, J 15, K 15, and K
+        16 are dead. They were
+        sacrificed in order to

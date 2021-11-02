@@ -1,0 +1,3 @@
+167.    N 2.                         168.    M 2. Otherwise White would
+                                             play at L 3.
+169.    G 5.                         170.    A 13. This stone is

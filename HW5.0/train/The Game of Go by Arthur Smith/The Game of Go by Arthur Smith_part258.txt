@@ -1,0 +1,3 @@
+adverse King, so in Go the ultimate object is not to capture the
+adversary’s stones, but to so arrange matters that at the end of the
+game a player’s stones will surround as much vacant space as possible.

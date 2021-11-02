@@ -1,0 +1,3 @@
+13.     R 13.                        14.     P 16.
+15.     N 13.                        16.     P 10. This move is better
+                                             than R 7.

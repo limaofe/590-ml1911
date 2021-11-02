@@ -1,0 +1,3 @@
+stones and plays first, unless a handicap has been given, in which case
+the player using the white stones has the first move. (In the olden
+times this was just reversed.) They place the stones on the vacant

@@ -1,0 +1,3 @@
+5.  Connecting Groups.
+    The problem here is to force a connection between a small group
+    having insufficient “Me” and some larger group.

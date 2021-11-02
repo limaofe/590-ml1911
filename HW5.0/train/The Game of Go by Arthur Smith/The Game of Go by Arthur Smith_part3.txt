@@ -1,0 +1,3 @@
+This book is intended as a practical guide to the game of Go. It is
+especially designed to assist students of the game who have acquired a
+smattering of it in some way and who wish to investigate it further at

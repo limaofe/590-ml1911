@@ -1,0 +1,3 @@
+5.      S 18. White cannot venture   6.      R 18. If Black neglects
+        to play at R 18.                     this, White would jump to
+                                             Q 18.

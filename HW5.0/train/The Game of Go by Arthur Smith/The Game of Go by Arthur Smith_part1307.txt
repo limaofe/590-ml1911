@@ -1,0 +1,3 @@
+point, is also not used. The other six points may be divided into
+duplicate sets of three each, and, therefore, there are only three
+well-recognized methods of playing the first stone. These are: in the

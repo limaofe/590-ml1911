@@ -1,0 +1,3 @@
+9.      E 4.                         10.     C 10. If White did not
+                                             occupy this point, we
+                                             might have the following

@@ -1,0 +1,3 @@
+        stone at D 6.                        considered move for Black.
+21.     A 4.                         22.     B 3.
+23.     A 6. Takes two.              24.     B 8.

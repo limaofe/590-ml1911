@@ -1,0 +1,3 @@
+13, R 15; White, Q 14, P 16, Q 17.
+        BLACK                                WHITE
+1.      Q 5. Black plays             2.      R 3. White plans to

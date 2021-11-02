@@ -1,0 +1,3 @@
+13.     R 5.                         14.     O 4.
+15.     F 16.                        16.     H 17.
+17.     C 13.                        18.     C 8. Abandoning the stone

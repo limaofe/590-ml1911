@@ -1,0 +1,3 @@
+game contains large collections.
+The most important kind of problems are those in which the question is
+how to kill an adversary’s group, or how to save one’s own group when

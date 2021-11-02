@@ -1,0 +1,3 @@
+197.    O 14. Black’s groups are     198.    N 18.
+        now separated.
+199.    O 18.                        200.    P 18.

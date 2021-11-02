@@ -1,0 +1,3 @@
+is never used, as at the end of the game there are always vacant spaces
+on the board. The Japanese generally keep these stones in gracefully
+shaped, lacquered boxes or “Go tsubo.”

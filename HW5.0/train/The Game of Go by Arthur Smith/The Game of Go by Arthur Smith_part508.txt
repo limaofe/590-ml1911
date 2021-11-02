@@ -1,0 +1,3 @@
+The lines at the bottom of the board are lettered from A to T, the
+letter I being omitted, and at the sides of the board they are numbered
+up from 1 to 19. Thus it is always easy to locate any given stone. In

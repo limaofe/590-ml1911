@@ -1,0 +1,3 @@
+305.    T 19. Takes.                 306.    O 7.
+307.    P 9. Connecting.             308.    T 15. Takes.
+309.    T 8.                         310.    C 19.

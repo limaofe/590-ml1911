@@ -1,0 +1,3 @@
+frequent, until at last all of the moves are strictly part of the end
+game.
+Toward the end of the game it becomes possible to calculate the value

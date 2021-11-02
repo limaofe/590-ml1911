@@ -1,0 +1,3 @@
+stronger player allowing the weaker player to place a certain number of
+stones on the board before the game begins, and we have seen in the
+chapter on the Description of the Board that these stones are placed on

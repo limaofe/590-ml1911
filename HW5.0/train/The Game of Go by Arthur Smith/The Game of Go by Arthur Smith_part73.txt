@@ -1,0 +1,3 @@
+take all the stones from the board after the game had been finished and
+then play it over from memory. This is of interest also as showing that
+in the course of time playing the game has had the effect of

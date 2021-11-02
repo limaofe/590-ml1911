@@ -1,0 +1,3 @@
+        stones.
+3.      B 15. The white stone at B
+        16 is now hopeless.

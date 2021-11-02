@@ -1,0 +1,3 @@
+Suppose Black neglects P 14 on his thirteenth move, we would then have
+the following continuation:
+        BLACK                                WHITE

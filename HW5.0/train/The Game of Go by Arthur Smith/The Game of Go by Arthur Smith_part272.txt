@@ -1,0 +1,3 @@
+2, Diagram VIII. In order to surround stones which are on the same
+line, and therefore connected, it is necessary to surround them all in
+order to take them, while stones which are arranged on a diagonal line,

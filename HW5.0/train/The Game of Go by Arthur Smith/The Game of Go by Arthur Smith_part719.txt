@@ -1,0 +1,3 @@
+        continuation would have
+        occurred:
+        B. S 5, S 6, S 8, R 8, Q 8

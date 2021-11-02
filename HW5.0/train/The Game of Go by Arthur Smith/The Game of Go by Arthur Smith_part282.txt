@@ -1,0 +1,3 @@
+clearly hopeless that the adversary is not replying move for move, then
+every stone added to such a group means a loss of two points.
+At the end of the game such abandoned groups of stones are removed from

@@ -1,0 +1,3 @@
+        stones over the board as
+        much as possible, and
+        avoid close conflicts.

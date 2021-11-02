@@ -1,0 +1,3 @@
+it is next to impossible to form territory in the center of the board,
+unless it is based on one of the sides or corners.
+There is, however, an old rule of etiquette which is not consistent

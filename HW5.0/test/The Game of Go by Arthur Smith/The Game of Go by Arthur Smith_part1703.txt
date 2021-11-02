@@ -1,0 +1,3 @@
+The opposite is the case in regard to Go problems. These are for the
+most part taken from actual games, and the typical problem is a
+situation that is quite likely to arise in actual play, and some of

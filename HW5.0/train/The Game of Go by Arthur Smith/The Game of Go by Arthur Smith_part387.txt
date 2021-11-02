@@ -1,0 +1,3 @@
+filled, but the dead stones have not yet been removed from the board.
+Let us first see which of the stones are dead. It is easy to see that
+the white stone at N 11 is hopeless, as it is cut off in every

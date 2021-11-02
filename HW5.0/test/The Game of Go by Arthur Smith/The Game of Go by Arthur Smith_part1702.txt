@@ -1,0 +1,3 @@
+Many of us are familiar with Chess problems, and I think Chess players
+will agree that they benefit the student of Chess very little, because
+the assumed positions are not such as arise frequently in actual play.

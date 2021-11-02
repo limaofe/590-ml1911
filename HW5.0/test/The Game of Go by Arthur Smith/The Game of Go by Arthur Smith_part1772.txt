@@ -1,0 +1,3 @@
+12. White, Q 11, 12, 13, R 11, 14, 15, S 16, T 14.
+    Black, Q 14, 15, R 12, 13, 16, 17, 18, S 11, 13.
+V. CONNECTING GROUPS

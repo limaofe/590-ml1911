@@ -1,0 +1,3 @@
+after trial and comparison with other possible sizes. Korschelt made
+certain experiments with the next possible larger size in which the
+number of lines in each direction was twenty-one, and it seemed that

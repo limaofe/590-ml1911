@@ -1,0 +1,3 @@
+267.    T 16.                        268.    T 17.
+269.    R 8. “Ko.”                   270.    T 6.
+271.    T 5. Black must stop the     272.    Q 8. “Ko.”

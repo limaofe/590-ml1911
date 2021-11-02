@@ -1,0 +1,3 @@
+occurs in any game.
+It is a rule of the game to give warning when a stone or group of
+stones is about to be completely surrounded. For this purpose the

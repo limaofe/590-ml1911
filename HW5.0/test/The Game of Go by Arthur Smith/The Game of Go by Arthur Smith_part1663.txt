@@ -1,0 +1,3 @@
+The following stones are on the board: White, M 16, M 17, M 18, N 16, O
+15, P 14, R 14; Black, N 17, N 18, O 16, P 16, Q 16, R 16.
+If White has the “Sente,” it makes a difference of six “Me.”

@@ -1,0 +1,3 @@
+the analogous works on Chess openings. There is, however, a difference
+between the opening of the game in Chess and the opening in Go, because
+in the latter case the play can commence in each of the four corners

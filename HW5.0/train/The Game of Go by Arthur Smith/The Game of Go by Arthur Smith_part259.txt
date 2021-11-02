@@ -1,0 +1,3 @@
+At the end of the game, however, before the amount of vacant space is
+calculated, the stones that have been taken are used to fill up the
+vacant spaces claimed by the adversary; that is to say, the captured

@@ -1,0 +1,3 @@
+        White permits Black to       239.    P 19.
+        play again.
+        White permits Black to       240.    N 17.

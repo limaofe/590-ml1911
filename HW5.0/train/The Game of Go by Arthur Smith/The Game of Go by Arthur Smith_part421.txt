@@ -1,0 +1,3 @@
+they are played they are not moved again.
+3. (a) One or more stones which are compactly surrounded by the stones
+of the other side are said to be taken and are at once removed from the

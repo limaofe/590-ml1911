@@ -1,0 +1,3 @@
+7.      R 5.                         8.      O 17.
+9.      F 4.                         10.     G 3.
+11.     O 4.                         12.     O 3. From here the game

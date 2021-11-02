@@ -1,0 +1,3 @@
+As we have already seen, the handicap stone is always placed on a
+certain fixed point, which is the fourth intersection from the edge of
+the board in each direction, and White has five recognized methods of

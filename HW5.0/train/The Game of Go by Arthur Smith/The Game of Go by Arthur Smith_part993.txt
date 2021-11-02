@@ -1,0 +1,3 @@
+242.    S 19.                        243.    O 19.
+244.    R 17.
+“Dame”—E 5 and C 5. White wins by one hundred and ninety-seven spaces

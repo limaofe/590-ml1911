@@ -1,0 +1,3 @@
+position where the “Sente” is retained, in preference to an end
+position where it is lost, even if the latter would gain a few more
+“Me.”

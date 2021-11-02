@@ -1,0 +1,3 @@
+follows that a group of stones containing two disconnected vacant
+intersections or “Me” cannot be taken. This is not a separate rule. It
+follows necessarily from the method by which stones are taken.

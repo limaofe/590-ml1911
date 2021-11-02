@@ -1,0 +1,3 @@
+        If White does not take,              stones would be cut off by
+        but plays at P 11, his               W-K 10. Moves Nos. 98,
+        stones on the edge of the            100, and 102 isolate the

@@ -1,0 +1,3 @@
+3.      P 4.                         4.      Q 3.
+5.      P 3.                         6.      Q 2.
+7.      R 7. Formerly in this case   8.      R 6.

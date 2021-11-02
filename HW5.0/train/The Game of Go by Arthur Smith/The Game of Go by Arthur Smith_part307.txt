@@ -1,0 +1,3 @@
+Groups of stones which contain vacant spaces, can be lost or saved
+according as two disconnected “Me” can or cannot be formed in those
+spaces, and the most interesting play in the game occurs along the

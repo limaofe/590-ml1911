@@ -1,0 +1,3 @@
+The game of Go belongs to the class of games of which our Chess, though
+very dissimilar, is an example. It is played on a board, and is a game
+of pure skill, into which the element of chance does not enter;

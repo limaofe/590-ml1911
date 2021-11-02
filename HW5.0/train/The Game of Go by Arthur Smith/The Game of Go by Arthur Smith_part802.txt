@@ -1,0 +1,3 @@
+        playing the corner.
+147.    L 6.                         148.    K 5.
+149.    K 6.                         150.    J 5.

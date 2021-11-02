@@ -1,0 +1,3 @@
+attacking stone is threatened on three sides, or where only one stone
+is taken, but the adversary in replying can take not only the last
+stone played, but others also. In these cases the opponent can retake

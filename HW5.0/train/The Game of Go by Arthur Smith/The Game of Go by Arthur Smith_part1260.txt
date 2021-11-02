@@ -1,0 +1,3 @@
+7.      N 5. White must get out.     8.      M 5.
+9.      M 6.                         10.     M 4.
+11.     P 3.                         12.     Q 3.

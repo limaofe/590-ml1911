@@ -1,0 +1,3 @@
+Knight’s move in Chess. The Knight in Japanese is called “Keima,” or
+“the honorable horse,” and if the stones are of the same color the
+relation is called “Keima” or “Kogeima,” “Ko” being the diminutive. If

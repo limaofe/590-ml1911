@@ -1,0 +1,3 @@
+        and White can occupy F 5
+        on his 53d move and thus
+        escape, whereas without G

@@ -1,0 +1,3 @@
+    stones to it which the opponent must take, the threatened player
+    can force his opponent to abandon a part of his surrounding chain
+    in order not to sustain greater losses. The attack is so sudden and

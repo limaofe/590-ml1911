@@ -1,0 +1,3 @@
+stone is placed in the extreme corner of the board, it may be
+surrounded and taken by two stones, as shown in Plate 2, Diagram III.
+In actual practice it seldom or never happens that a stone or group of

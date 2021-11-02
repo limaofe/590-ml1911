@@ -1,0 +1,3 @@
+A work on the game of Go would not be complete without a chapter
+especially devoted to the subject of the end game.
+On the average a game of Go consists of about two hundred and fifty

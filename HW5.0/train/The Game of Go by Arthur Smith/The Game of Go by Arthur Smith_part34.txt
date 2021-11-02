@@ -1,0 +1,3 @@
+Battles occur in various parts of the board, and sometimes several are
+going on at the same time. Strong positions are besieged and captured,
+and whole armies are cut off from their line of communications and are

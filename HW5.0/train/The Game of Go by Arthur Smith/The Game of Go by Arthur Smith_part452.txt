@@ -1,0 +1,3 @@
+advance sometimes it is only safe to skip one point, and of course in
+close positions the stones must be played so that they are actually
+connected. The Japanese call this skipping of “Me” by the terms “Ikken

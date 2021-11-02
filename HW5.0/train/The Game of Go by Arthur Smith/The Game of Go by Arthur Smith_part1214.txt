@@ -1,0 +1,3 @@
+Suppose Black does not play No. 4, E 2, but plays elsewhere, then the
+following continuation might occur:
+        WHITE                                BLACK

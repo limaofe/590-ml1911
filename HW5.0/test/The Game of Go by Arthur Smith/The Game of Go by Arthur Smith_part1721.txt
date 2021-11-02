@@ -1,0 +1,3 @@
+    This is another method of escape, and the problem is to cut off and
+    kill part of the adversary’s surrounding chain.
+In the following examples the side having the first move is given in

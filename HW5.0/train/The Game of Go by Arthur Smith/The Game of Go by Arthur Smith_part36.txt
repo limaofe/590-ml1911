@@ -1,0 +1,3 @@
+combinations in Go suffer in comparison with those of Chess by reason
+of a certain monotony, because there are no pieces having different
+movements, and because the stones are not moved again after once being

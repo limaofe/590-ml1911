@@ -1,0 +1,3 @@
+Either side can fill these “Me.”
+The following stones are dead and can now be removed:
+White.—K 8, L 17, T 3, T 4. Black.—N 12, N 13, O 13, S 18.

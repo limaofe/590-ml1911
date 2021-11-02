@@ -1,0 +1,3 @@
+E 6; Black, B 7, C 5, 6, D 3, 4, E 4, 5.
+White has the move.
+        WHITE                                BLACK

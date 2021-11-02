@@ -1,0 +1,3 @@
+board it can be made by three stones, and in the corner of the board by
+two stones, but it is absolutely necessary, in addition to the minimum
+number of surrounding stones, to have helping stones to guard the

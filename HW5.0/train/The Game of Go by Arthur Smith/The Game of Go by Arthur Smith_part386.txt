@@ -1,0 +1,3 @@
+of the board contains the situation called “Seki,” that portion is left
+alone, and is not reconstructed like the rest of the board.
+Plate 8 shows a completed game in which the “Dame” have all been

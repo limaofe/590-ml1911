@@ -1,0 +1,3 @@
+White has three dead stones at S 12, S 5, and K 4. Black has three dead
+stones at J 15, O 4, and R 18. The white stones at P, Q, and R 13, are
+not dead yet. They have aggressive possibilities, and must be actually

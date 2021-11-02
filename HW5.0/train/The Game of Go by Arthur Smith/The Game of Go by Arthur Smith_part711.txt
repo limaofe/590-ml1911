@@ -1,0 +1,3 @@
+        continuation:
+        W. P 16, O 15, N 16, O 14
+        B. P 15, N 15, O 17, P 18

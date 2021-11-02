@@ -1,0 +1,3 @@
+17.     R 3.                         18.     R 4. This move is better
+                                             than Q 3, which although
+                                             it cuts off O 3 and R 3

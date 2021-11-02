@@ -1,0 +1,3 @@
+are placed at the left and right-hand edges of the board on line 10. If
+seven are given, these stones remain, and the seventh stone is placed
+in the center. If eight are given, the center stone is again removed,

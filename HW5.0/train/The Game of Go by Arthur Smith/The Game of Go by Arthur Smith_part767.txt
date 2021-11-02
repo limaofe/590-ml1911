@@ -1,0 +1,3 @@
+        black stone at N 17 were
+        at M 17, White could have
+        escaped.

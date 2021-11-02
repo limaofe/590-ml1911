@@ -1,0 +1,3 @@
+255.    R 19. White must take this   256.    T 15. A necessary
+        before filling T 19.                 connection.
+257.    N 6. Necessary to form

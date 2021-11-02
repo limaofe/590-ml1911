@@ -1,0 +1,3 @@
+        course, applies to the
+        corresponding points in
+        the other three corners.

@@ -1,0 +1,3 @@
+intersections in a line it is safe, because if the adversary attempts
+to reduce it, two disconnected “Me” can be formed in the space by
+simply playing a stone adjacent to the adversary’s stone, as shown in

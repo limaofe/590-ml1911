@@ -1,0 +1,3 @@
+as we already have seen.
+If, however, such a group contains only three connected vacant
+intersections, and it is the adversary’s move, it can be killed,

@@ -1,0 +1,3 @@
+39.     F 3.                         40.     F 2.
+41.     E 4. Black compels White     42.     E 2.
+        to take 41, in order to

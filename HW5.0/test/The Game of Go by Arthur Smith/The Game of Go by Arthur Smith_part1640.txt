@@ -1,0 +1,3 @@
+The following stones are on the board: White, S 15, R 14, P 14, L 17;
+Black, R 16, Q 16, N 15, N 17.
+If White has the “Sente,” he gains eight “Me,” counting together what

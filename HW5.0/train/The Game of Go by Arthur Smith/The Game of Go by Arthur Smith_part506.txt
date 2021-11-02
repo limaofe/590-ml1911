@@ -1,0 +1,3 @@
+annotation is good enough, but it is very hard to follow, as there is
+no means of telling where any stone is without searching all over the
+board for it; and while the Japanese are very clever at this,

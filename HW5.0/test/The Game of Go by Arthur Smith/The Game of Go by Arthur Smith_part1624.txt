@@ -1,0 +1,3 @@
+game is nearing completion, the players survey the board in order to
+locate the most advantageous end plays; that is to say, positions where
+they can gain the greatest number of “Me.” In calculating the value of

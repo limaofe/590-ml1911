@@ -1,0 +1,3 @@
+intersecting lines in each direction were only seventeen in number. At
+the time of the foundation of the Go Academy this was the size of board
+in use. As the game developed the present number of lines became fixed

@@ -1,0 +1,3 @@
+        the game the corners and
+        margins are first
+        occupied, because it is

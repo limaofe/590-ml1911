@@ -1,0 +1,3 @@
+completely surrounding the adversary’s stones already on the board. If,
+on the other hand, we have a situation as shown in Plate 3, Diagram II,
+a black stone may indeed be played on one of the vacant intersections,

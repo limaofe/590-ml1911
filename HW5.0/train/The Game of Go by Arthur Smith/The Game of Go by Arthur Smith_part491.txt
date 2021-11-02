@@ -1,0 +1,3 @@
+effectively guard the point of connection and thus prevent the
+adversary’s stone from separating the two groups. This play is called
+“Kake tsugu,” or “a hanging connection”; e.g., in Diagram XIII, if a

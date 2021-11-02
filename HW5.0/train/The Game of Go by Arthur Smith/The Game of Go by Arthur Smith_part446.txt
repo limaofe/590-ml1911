@@ -1,0 +1,3 @@
+connected, and therefore safe against attack? The answer is, that two
+spaces can safely be left if there are no adversary’s stones in the
+immediate vicinity. To demonstrate this, let us suppose that Black has

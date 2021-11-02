@@ -1,0 +1,3 @@
+                                             defensive move.
+3.      D 3.                         4.      E 3. This is better than C
+                                             3; in that case Black gets

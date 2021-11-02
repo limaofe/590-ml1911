@@ -1,0 +1,3 @@
+251.    N 5.                         252.    K 8.
+253.    Q 9. (“Ko tsugu.”)
+Here the game is left as finished in the published report, but the

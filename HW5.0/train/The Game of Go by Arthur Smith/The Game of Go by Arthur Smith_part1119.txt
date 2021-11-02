@@ -1,0 +1,3 @@
+13.     N 18. White extends as far   14.     M 18. Black stops the
+        as possible.                         advance.
+15.     P 17. White must look out    16.     M 17. Black must connect.

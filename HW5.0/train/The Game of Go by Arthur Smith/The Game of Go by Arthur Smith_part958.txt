@@ -1,0 +1,3 @@
+                                             should play somewhere in
+                                             the unoccupied portion of
+                                             the board.

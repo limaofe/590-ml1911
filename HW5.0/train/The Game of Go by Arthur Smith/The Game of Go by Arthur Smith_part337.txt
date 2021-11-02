@@ -1,0 +1,3 @@
+move, he can save them by playing on the same point.
+Of course, if a group of stones contains a large number of vacant
+intersections, it is perfectly safe unless the vacant space is so large

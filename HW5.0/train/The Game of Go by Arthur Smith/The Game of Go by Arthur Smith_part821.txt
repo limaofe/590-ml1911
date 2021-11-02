@@ -1,0 +1,3 @@
+215.    F 4.                         216.    Q 14.
+217.    R 13. “Ko.”                  218.    B 19. “Sente.”
+219.    D 18. Black must connect.    220.    S 13. “Ko.”

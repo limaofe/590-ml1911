@@ -1,0 +1,3 @@
+        stones at R 5 and R 9.
+35.     E 2.                         36.     D 2.
+37.     G 2.                         38.     E 5.

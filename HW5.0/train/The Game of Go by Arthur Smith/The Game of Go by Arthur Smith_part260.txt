@@ -1,0 +1,3 @@
+black stones are used to fill up the spaces surrounded by the player
+having the white pieces, and vice versa, and the player who has the
+greatest amount of territory after the captured stones are used in this

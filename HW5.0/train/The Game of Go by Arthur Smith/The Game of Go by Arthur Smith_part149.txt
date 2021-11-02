@@ -1,0 +1,3 @@
+place enough stones on the board as a handicap to make the adversaries
+approximately equal.
+According to the rules of the Academy, if the difference between the

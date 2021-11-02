@@ -1,0 +1,3 @@
+        board will die.                      black stones in the
+                                             neighborhood of P 14.
+95.     L 11.                        96.     Q 12.

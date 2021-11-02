@@ -1,0 +1,3 @@
+3.      P 5.                         4.      P 4.
+5.      Q 4. This is not a good      6.      O 4.
+        move for Black and will

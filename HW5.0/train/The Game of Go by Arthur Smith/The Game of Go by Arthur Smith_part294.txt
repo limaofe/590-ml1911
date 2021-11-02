@@ -1,0 +1,3 @@
+but when it is so played the white group is not completely surrounded,
+because there still remains one space yet to be filled, and the black
+stone itself is dead as soon as it touches the board, and hence it

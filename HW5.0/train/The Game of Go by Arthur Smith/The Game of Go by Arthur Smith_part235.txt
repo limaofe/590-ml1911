@@ -1,0 +1,3 @@
+between the horizontal lines. I found about the same relation of size
+in the board and stones which I use.
+The result of this is that the stones do not have quite room enough and

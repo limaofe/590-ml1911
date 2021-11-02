@@ -1,0 +1,3 @@
+pleasure in Go than in Chess, for in Chess it is almost certain that
+the first of two such players who loses a piece will lose the game, and
+further play is mostly an unsuccessful struggle against certain defeat.

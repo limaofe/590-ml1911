@@ -1,0 +1,3 @@
+5.  White, B 4, C 4, D 3, E 3, F 2, G 3.
+    Black, A 3, B 3, C 2, D 2, E 2.
+6.  White, B 16, C 10, D 13, 15, 16, 17.

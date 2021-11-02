@@ -1,0 +1,3 @@
+12. White, Q 3, R 2, 3, S 3.
+    Black, P 2, 3, 5, Q 2, 4, R 5, 7.
+13. White, B 2, C 3, D 1, 3, E 2.

@@ -1,0 +1,3 @@
+always necessary to add helping stones to those that are strictly
+necessary in completing the capture. Plate 2, Diagram V, shows four
+stones which are surrounded with the minimum number of stones. Plate 2,

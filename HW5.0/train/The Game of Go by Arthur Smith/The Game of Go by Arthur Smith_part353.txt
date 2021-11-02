@@ -1,0 +1,3 @@
+where White by playing at C 8 (Diagram III) takes the three black
+stones, producing the situation shown in Diagram IV, and Black is
+permitted immediately to retake the white stone, producing the state of

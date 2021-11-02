@@ -1,0 +1,3 @@
+II
+DESCRIPTION OF THE BOARD AND STONES
+The board, or “Go Ban” as it is called in Japanese, is a solid block of

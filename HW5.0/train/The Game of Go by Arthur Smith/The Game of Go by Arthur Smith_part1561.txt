@@ -1,0 +1,3 @@
+        already occupies Q 3.
+21.     F 14.                        22.     C 11.
+23.     L 16.                        24.     M 17.

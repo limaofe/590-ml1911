@@ -1,0 +1,3 @@
+remaining moves are not all strictly speaking “Dame.” There are quite a
+number of moves to be made before we can proceed to the count. The
+first question is, naturally, what stones are dead, and we find that

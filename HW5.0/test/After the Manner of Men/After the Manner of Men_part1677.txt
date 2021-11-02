@@ -1,0 +1,5 @@
+  Italicized text is surrounded by underscores: _italics_.
+  Emboldened text is surrounded by equals signs: =bold=.
+  Obvious typographical errors have been corrected.
+  Inconsistencies in hyphenation have been corrected.
+*** END OF THE PROJECT GUTENBERG EBOOK AFTER THE MANNER OF MEN ***

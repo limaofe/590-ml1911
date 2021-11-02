@@ -1,0 +1,3 @@
+5.      O 15.                        6.      N 18. This is Black’s best
+                                             move. If he plays at P 15,
+                                             White replies at O 18 with

@@ -1,0 +1,3 @@
+stones is surrounded by the minimum number requisite under the rule,
+for in that case the player whose stones were threatened could
+generally manage to break through his adversary’s line. It is almost

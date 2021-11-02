@@ -1,0 +1,3 @@
+Black’s last move in this continuation is interesting, because it will
+make “Kake tsugu” no matter which way White tries to break through. If
+he should play at D 17, White could get through at E 16.

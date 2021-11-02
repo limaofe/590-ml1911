@@ -1,0 +1,3 @@
+49.     N 13.                        50.     J 3. White could not
+                                             occupy this point without
+                                             endangering the upper

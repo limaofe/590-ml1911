@@ -1,0 +1,3 @@
+black lines. These lines are about four one-hundredths of an inch wide.
+It has been seen from the dimensions given that the board is not
+exactly square, and the field therefore is a “parallelogram, the sides

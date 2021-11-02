@@ -1,0 +1,3 @@
+if it is White’s play is nevertheless not completely surrounded. In
+order to surround it, it is necessary to play on the three vacant
+intersections at M 11, N 11, and O 11. The same group of stones is

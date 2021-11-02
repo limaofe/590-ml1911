@@ -1,0 +1,3 @@
+        stones are played farther
+        apart than in the
+        preceding “Joseki.”

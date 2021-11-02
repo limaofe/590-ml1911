@@ -1,0 +1,3 @@
+spaces as the pieces are in Chess or Checkers. These intersections are
+called “Me” or “Moku” in Japanese, which really means “an eye.”
+Inasmuch as the word as used in this connection is untranslatable, I

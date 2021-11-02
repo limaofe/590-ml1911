@@ -1,0 +1,3 @@
+latter are removed at once, whereas “dead” stones are removed only at
+the end of the game.
+As a corollary to the rule for surrounding and taking stones, it

@@ -1,0 +1,3 @@
+        from both sides.                     this move also prevents
+                                             White from playing at E 3.
+7.      J 5.                         8.      G 7.

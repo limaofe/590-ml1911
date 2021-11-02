@@ -1,0 +1,3 @@
+233.    R 3.                         234.    N 19.
+        White permits Black to       235.    L 17.
+        play again.

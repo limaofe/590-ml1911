@@ -1,0 +1,3 @@
+        from the beginning,                  to the corresponding
+        because they cannot take             positions in other parts
+        in the whole field at a              of the board, of which

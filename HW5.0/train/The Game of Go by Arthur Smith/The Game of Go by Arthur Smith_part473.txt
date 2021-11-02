@@ -1,0 +1,3 @@
+in, the formation would stretch in a zigzag line to the edge of the
+board. This situation is called “Shicho,” which really means “a running
+attack.” It results in the capture of the white stones when the edge of

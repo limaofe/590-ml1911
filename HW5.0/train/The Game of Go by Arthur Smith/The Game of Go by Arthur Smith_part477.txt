@@ -1,0 +1,3 @@
+join his two groups of stones. This is so because if Black plays at L 1
+or N 1, White can immediately kill the stone. This joining on the edge
+of the board is called by the special term “Watari,” which means “to
